@@ -5,6 +5,16 @@ pipeline{
          maven 'maven'
          jdk 'java'
     }
+	
+	stages{
+	
+	stage('build'){
+	
+	steps{
+	
+	}
+	}
+	}
 
     
 }
