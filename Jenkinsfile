@@ -30,6 +30,13 @@ pipeline{
 	
 	steps{
 	}
+
+		stages{
+	
+	stage('SR Infotech Demo ){
+	
+	steps{
+	}
 	}
 
     
