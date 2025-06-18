@@ -14,6 +14,15 @@ pipeline{
 
 		
 	}
+	
+	stages{
+	
+	stage('SR Infotech Demo Project Build'){
+	
+	steps{
+
+		
+	}
 	}
 	}
 
